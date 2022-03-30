@@ -1,0 +1,6 @@
+numpy
+matplotlib
+sklearn
+scipy
+networkx
+gudhi
